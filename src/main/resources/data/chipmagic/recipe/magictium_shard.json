@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "chipmagic:magictium_gem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "chipmagic:magictium_shard"
+  }
+}

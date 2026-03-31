@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chipmagic:magictium_gem",
+  "ingredients": [
+    {
+      "item": "chipmagic:magictium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "chipmagic:magictium_gem"
+  }
+}

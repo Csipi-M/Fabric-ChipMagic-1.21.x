@@ -1,5 +1,7 @@
 package net.csipi_m.chipmagic;
 
+import net.csipi_m.chipmagic.block.ModBlocks;
+import net.csipi_m.chipmagic.item.ModItemGroups;
 import net.csipi_m.chipmagic.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +15,8 @@ public class ChipMagic implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
