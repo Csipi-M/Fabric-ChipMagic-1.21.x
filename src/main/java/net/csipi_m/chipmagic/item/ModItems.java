@@ -14,6 +14,7 @@ public class ModItems {
     public static final Item MAGICTIUM_SHARD = registerItem("magictium_shard", new Item(new Item.Settings()));
     public static final Item MAGIC_CHIP = registerItem("magic_chip", new Item(new Item.Settings()));
     public static final Item SILICON = registerItem("silicon", new Item(new Item.Settings()));
+    public static final Item MAGICTIUM_ALLOY = registerItem("magictium_alloy", new Item(new Item.Settings()));
 
 
     private static Item registerItem(String name, Item item) {
@@ -31,6 +32,7 @@ public class ModItems {
            fabricItemGroupEntries.add(MAGICTIUM_SHARD);
            fabricItemGroupEntries.add(MAGIC_CHIP);
            fabricItemGroupEntries.add(SILICON);
+           fabricItemGroupEntries.add(MAGICTIUM_ALLOY);
         });
     }
 }

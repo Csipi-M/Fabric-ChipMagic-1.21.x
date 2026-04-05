@@ -20,6 +20,7 @@ public class ModItemGroups {
                         entries.add(ModItems.MAGICTIUM_SHARD);
                         entries.add(ModItems.SILICON);
                         entries.add(ModItems.MAGIC_CHIP);
+                        entries.add(ModItems.MAGICTIUM_ALLOY);
 
                         entries.add(ModBlocks.MAGICTIUM_ORE);
                         entries.add(ModBlocks.MAGICTIUM_BLOCK);
