@@ -1,0 +1,4 @@
+// 1.21	2026-04-05T17:17:59.534830534	ChipMagic/Tags for minecraft:block
+b8770b4989bc8e4d76a695aaead8e18eae0c43e1 data/minecraft/tags/block/mineable/pickaxe.json
+9246fcc484cb46a489027aebe396f8a7bbcaf40f data/minecraft/tags/block/needs_iron_tool.json
+99384aa15a98ef244f21ca04203d22dd9b5a5fd8 data/minecraft/tags/block/needs_diamond_tool.json
